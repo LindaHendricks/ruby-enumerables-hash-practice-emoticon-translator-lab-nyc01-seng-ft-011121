@@ -18,7 +18,7 @@ require 'yaml'
 		    emoticon_lib['get_emoticon'][english] = japanese
 		  end
 		  emoticon_lib
-		  p emoticon_lib
+		 binding.pry
 		end
 		
 
